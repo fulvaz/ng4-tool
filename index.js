@@ -29,6 +29,7 @@ program
 	.parse(process.argv);
 
 if (!program.args.length) {
+	console.log('命令错误，暂时只支持init、create命令'.underline.red);
 	program.help();
 } else {
 	if (program.args[0] === 'init') {
@@ -51,4 +52,5 @@ if (!program.args.length) {
 		tool(config);
 		return null;
 	}
+	console.log('命令错误，暂时只支持init、create命令'.underline.red);
 }
