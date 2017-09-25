@@ -22,7 +22,7 @@
         "replacestream": "^4.0.3"
     },
     "repository": {
-    "type": "git",
-    "url": "https://github.com/baisusua/ng4-tool.git"
-  },
+        "type": "git",
+        "url": "https://github.com/baisusua/ng4-tool.git"
+    }
 }
