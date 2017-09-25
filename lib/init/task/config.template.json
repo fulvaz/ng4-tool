@@ -1,0 +1,29 @@
+{
+    "dev": {
+        "url": "http://xxxxx/ng4/",
+        "dirname": "ng4",
+        "ak": "xxxxx",
+        "sk": "xxxx",
+        "bk": "xxx",
+        "remote": "https://xxxxxx.git",
+        "branch": "dev",
+        "api": "http://xxxx/xxx",
+        "track_url": "https://xxxx/",
+        "track_id": "xxx",
+        "env": "dev"
+    },
+    "product": {
+        "url": "https://xxxxxxx/ng4/",
+        "dirname": "ng4",
+        "ak": "xxxxx",
+        "sk": "xxxxxx",
+        "bk": "xxxx",
+        "remote": "http://xxxxx.git",
+        "branch": "xxxxx",
+        "api": "https://xxxxxx",
+        "track_url": "https://xxxxxxx/",
+        "track_id": "xxxx",
+        "env": "product"
+    },
+    "v": "0.0.1"
+}
